@@ -8,14 +8,10 @@
 
 - ⚡ Fun fact **I'm basically a professional napper, always sleepy and ready to snooze!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-https://medium.com/@nabilakartikaputri
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://id.linkedin.com/in/nabila-kartika-puttri-b923a1270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://id.linkedin.com/in/nabila-kartika-puttri-b923a1270" height="30" width="40" /></a>
+<a href="https://id.linkedin.com/in/nabila-kartika-puttri-b923a1270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://id.linkedin.com/in/nabila-kartika-puttri-b923a1270" height="30" width="40" /></a>
 <a href="https://medium.com/@nabilakartikaputri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nabilakartikaputri" height="30" width="40" /></a>
 </p>
 
