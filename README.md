@@ -2,11 +2,11 @@
 <h3 align="center">i’m a university student with a strong interest in all things tech. Over the past few years, I’ve been diving into different areas of technology through my studies and personal projects, and it’s been a pretty exciting ride.</h3>
 <img align="right" alt="lofi" width="300" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
-- 🌱 I’m currently learning **Dart and Hadoop Distributed File System (HDFS)**
+🌱 I’m currently learning **Dart and Hadoop Distributed File System (HDFS)**
 
-- 📫 How to reach me **nabilakartikaputri@students.untidar.ac.id**
+📫 How to reach me **nabilakartikaputri@students.untidar.ac.id**
 
-- ⚡ Fun fact **I'm basically a professional napper, always sleepy and ready to snooze!**
+🕯️Fun fact **I'm basically a professional napper, always sleepy and ready to snooze!**
 
 
 <h3 align="left">Connect with me:</h3>
