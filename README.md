@@ -1,18 +1,15 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Nabila</h1>
 <h3 align="center">i’m a university student with a strong interest in all things tech. Over the past few years, I’ve been diving into different areas of technology through my studies and personal projects, and it’s been a pretty exciting ride.</h3>
-<img align=“right” alt=“coding width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fcode-fi-lofi-beats-to-coderelax-to-FvBVst&psig=AOvVaw2hexV80HjOZ3EYlH8MdwN2&ust=1729654430803000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjkgoGHoYkDFQAAAAAdAAAAABAE"
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nanabilaa&label=Profile%20views&color=0e75b6&style=flat" alt="nanabilaa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nanabilaa" alt="nanabilaa" /></a> </p>
 
 - 🌱 I’m currently learning **Dart and Hadoop Distributed File System (HDFS)**
 
 - 📫 How to reach me **nabilakartikaputri@students.untidar.ac.id**
 
 - ⚡ Fun fact **I'm basically a professional napper, always sleepy and ready to snooze!**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
