@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nabila</h1>
 <h3 align="center">i’m a university student with a strong interest in all things tech. Over the past few years, I’ve been diving into different areas of technology through my studies and personal projects, and it’s been a pretty exciting ride.</h3>
-<img align="right" alt="lofi" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fcode-fi-lofi-beats-to-coderelax-to-FvBVst&psig=AOvVaw0ojBu-4XZR_Z9yUs4ITm51&ust=1729655044872000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiImamJoYkDFQAAAAAdAAAAABAE">
+<img align="right" alt="lofi" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 - 🌱 I’m currently learning **Dart and Hadoop Distributed File System (HDFS)**
 
