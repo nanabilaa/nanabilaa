@@ -4,7 +4,7 @@
 
   <h1>HOLA, I'm Nabila 🤚</h1>
   <h3>
-    CS student • ML enjoyer • low-key nerd  
+    CS student • 
   </h3>
 
   <p>
