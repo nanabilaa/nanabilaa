@@ -17,16 +17,16 @@
 
 <td width="64%" align="center">
 
-<img src="https://i.makeagif.com/media/7-02-2026/ufglgZ.gif" width="310">
+<img src="https://i.makeagif.com/media/7-02-2026/ufglgZ.gif" width="320">
 
 <br><br>
 
-# hey, i'm nabeee 👋
+# nabila
 
 computer science student
 
-building projects, learning new things,  
-and documenting the journey one commit at a time.
+building web applications, exploring machine learning,
+and learning through every project.
 
 <br>
 
@@ -63,80 +63,65 @@ and documenting the journey one commit at a time.
 
 ---
 
-## About
+## A little about me
 
-I'm a Computer Science student who enjoys building web applications, experimenting with new technologies, and turning ideas into projects.
+I'm currently studying Computer Science and spend most of my time building web applications, exploring machine learning, and experimenting with new technologies.
 
-Most of my repositories are a mix of coursework, personal experiments, and things I built simply because I wanted to learn how they work.
+This profile is a collection of projects I've built while learning, solving problems, and trying new ideas.
 
 ---
 
-## Toolbox
+## What I use
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,python,java,supabase,mysql,git,github,figma,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,python,java,supabase,mysql,git,github,figma,vscode&perline=7"/>
 
 </div>
 
 ---
 
-## Currently
+## A few things I'm working on
 
-- 🌱 Exploring machine learning
-- 💻 Building full-stack web apps
-- 🎨 Learning more about UI/UX
-- 📚 Always working on something new
+- Full-stack web development
+- Machine learning
+- User interface design
+- Backend systems
+- Personal projects
 
 ---
 
-## GitHub Overview
+## GitHub activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nanabilaa&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nanabilaa&show_icons=true&theme=transparent&hide_border=true">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanabilaa&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanabilaa&layout=compact&theme=transparent&hide_border=true">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nanabilaa&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nanabilaa&theme=transparent&hide_border=true">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nanabilaa&theme=github-compact&hide_border=true">
 
 </div>
 
 ---
 
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nanabilaa&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nanabilaa&theme=flat&no-frame=true&margin-w=10&column=4"/>
-
-</div>
-
----
-
-## Featured Projects
+## Selected projects
 
 | Project | Description |
 |----------|-------------|
-| 📚 CBS System | Learning management system built with Next.js & Supabase |
-| 🧠 Machine Learning | Models and experiments while learning ML |
-| 🎨 UI/UX | Interface explorations and design practice |
+| CBS System | Learning management system built with Next.js and Supabase |
+| Machine Learning | Experiments, notebooks, and learning projects |
+| UI Collection | Interface concepts and design explorations |
 
 ---
 
-## Find Me
+## Elsewhere
 
 <div align="center">
 
@@ -159,16 +144,15 @@ Most of my repositories are a mix of coursework, personal experiments, and thing
 <div align="center">
 
 <img src="https://i.makeagif.com/media/7-02-2026/juxVrb.gif" width="120">
+
 <img src="https://i.makeagif.com/media/7-02-2026/zNFzdr.gif" width="120">
+
 <img src="https://i.makeagif.com/media/7-02-2026/v48YM3.gif" width="120">
+
 <img src="https://i.makeagif.com/media/7-02-2026/8Vfhjn.gif" width="120">
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=nanabilaa&style=flat-square&color=60A5FA">
-
-<br><br>
-
-thanks for stopping by 💙
 
 </div>
