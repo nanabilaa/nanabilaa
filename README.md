@@ -2,7 +2,7 @@
 
 <img src="https://i.makeagif.com/media/7-02-2026/ufglgZ.gif" width="280"/>
 
-# hey, i'm nabila 👋
+# hey, i'm nabeeee🤓
 
 `computer science student` • `full-stack learner`
 
