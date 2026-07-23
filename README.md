@@ -143,15 +143,6 @@ This profile is a collection of projects I've built while learning, solving prob
 
 <div align="center">
 
-<img src="https://i.makeagif.com/media/7-02-2026/juxVrb.gif" width="120">
-
-<img src="https://i.makeagif.com/media/7-02-2026/zNFzdr.gif" width="120">
-
-<img src="https://i.makeagif.com/media/7-02-2026/v48YM3.gif" width="120">
-
-<img src="https://i.makeagif.com/media/7-02-2026/8Vfhjn.gif" width="120">
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=nanabilaa&style=flat-square&color=60A5FA">
 
