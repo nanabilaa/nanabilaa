@@ -9,10 +9,6 @@
 
 <img src="https://i.makeagif.com/media/7-02-2026/zNFzdr.gif" width="120">
 
-<br><br>
-
-<img src="https://i.makeagif.com/media/7-02-2026/v48YM3.gif" width="120">
-
 </td>
 
 <td width="64%" align="center">
@@ -45,8 +41,6 @@ and learning through every project.
 </td>
 
 <td width="18%" align="center">
-
-<img src="https://i.makeagif.com/media/7-02-2026/v48YM3.gif" width="120">
 
 <br><br>
 
